@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sarkousy.github.io/sarkousy.txt.gz
+Sitemap: https://sarkousy.github.io/app/sarkousy.txt.gz
+Sitemap: https://sarkousy.github.io/assets/sarkousy.txt.gz
+Sitemap: https://sarkousy.github.io/css/sarkousy.txt.gz
+Sitemap: https://sarkousy.github.io/includes/sarkousy.txt.gz
+Sitemap: https://sarkousy.github.io/item/sarkousy.txt.gz
+Sitemap: https://sarkousy.github.io/src/sarkousy.txt.gz
